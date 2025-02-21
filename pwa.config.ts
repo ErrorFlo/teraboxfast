@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'TeraBox Fast',
+  shortName: 'TeraBox Fast',
+  description: 'TeraBoxFast.com makes downloading files and videos from TeraBox quick and easy. Our tool lets you download content directly from TeraBox links without hassle.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.teraboxfast.com',
 } satisfies Config;
